@@ -2,7 +2,4 @@ numpy
 matplotlib
 pandas
 geopandas
-rasterio
-descartes
-rtree
-libspatialindex_c
+
