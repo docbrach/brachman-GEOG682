@@ -5,3 +5,4 @@ geopandas
 rasterio
 descartes
 rtree
+libspatialindex_c
